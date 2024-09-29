@@ -1,0 +1,27 @@
+
+things to do:
+
+1. run cleaner.bat
+
+
+
+--------------------------
+
+
+
+for modification and complete sourcecode:
+
+website: http://www.inettutor.com
+	 http://webgeekresources.com
+
+mobile: 09102294835
+
+
+Features:
+	This system can help to provide convenient way of entering customer’s data without any delay.  It can have a more secure and private records or files from customers.
+•	Encoding of User and their Privileges. Allows creation of user and administrative account to ensure the security of the system.
+•	Encoding of Customer’s Information. The system accepts the customers’ information that is encoded.
+•	Generate Billing. The system automatically generates customer’s bill from previous transactions.
+•	Income statement. The system updates the income of the hotel and records automatically the result of the transactions made.
+•	Confirms and cancel reservation. The system will accept incoming reservation requests personally or through telephone and will cancel requests if the customer tells to do so.
+•	Settings for the price of exceed persons. The system provides settings for inputting price for exceeds person and will automatically update the changes made.
